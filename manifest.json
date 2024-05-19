@@ -1,0 +1,11 @@
+{
+  "Name": "Dialog Better",
+  "Author": "Voidslime",
+  "Version": "1.0.0",
+  "Description": "Whave u every wished the dilgog was better and good? THIS MOD IS FOR YOU!",
+  "UniqueID": "Voidslime.DialogBetter",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

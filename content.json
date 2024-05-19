@@ -1,0 +1,13 @@
+{
+  "Format": "2.0.6",
+
+    "Changes": [
+ //DIALOG
+      {
+        "Action": "EditData",
+        "Target": "Characters/Marlon",
+        "FromFile": "Characters/Marlon.json"
+      },
+
+    ]
+}
