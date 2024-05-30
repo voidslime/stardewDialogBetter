@@ -5,9 +5,14 @@
  //DIALOG
       {
         "Action": "EditData",
-        "Target": "Characters/Marlon",
-        "FromFile": "Characters/Marlon.json"
+        "Target": "Characters/Dialogue/Marlon",
+        "FromFile": "Characters/Dialogue/Marlon.json"
       },
-
+ //EVENTS
+      {
+        "Action": "EditData",
+        "Target": "Data/Events/BusStop",
+        "FromFile": "Data/Events/BusStop.json"
+      },
     ]
 }
