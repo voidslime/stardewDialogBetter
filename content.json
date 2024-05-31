@@ -2,17 +2,35 @@
   "Format": "2.0.6",
 
     "Changes": [
- //DIALOG
+  //Characters/Dialogue
       {
         "Action": "EditData",
-        "Target": "Characters/Dialogue/Marlon",
-        "FromFile": "Characters/Dialogue/Marlon.json"
+        "Target": "Characters/Dialogue/Robin",
+        "FromFile": "Characters/Dialogue/Robin.json"
       },
- //EVENTS
+  //Data
+      {
+        "Action": "EditData",
+        "Target": "Data/mail",
+        "FromFile": "Data/mail.json"
+      },
+  //Data/Events
       {
         "Action": "EditData",
         "Target": "Data/Events/BusStop",
         "FromFile": "Data/Events/BusStop.json"
+      },
+  //Strings
+      {
+        "Action": "EditData",
+        "Target": "Strings/1_6_Strings",
+        "FromFile": "Strings/1_6_Strings.json"
+      },
+  //Strings/schedules
+      {
+        "Action": "EditData",
+        "Target": "Strings/schedules/Robin",
+        "FromFile": "Strings/schedules/Robin.json"
       },
     ]
 }
